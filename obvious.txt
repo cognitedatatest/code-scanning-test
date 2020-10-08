@@ -1,1 +1,1 @@
-token : ilwfjbchcqiwbc40194795bfkcbo23yrbbuvco
+token = ilwfjbchcqiwbc40194795bfkcbo23yrbbuvco
